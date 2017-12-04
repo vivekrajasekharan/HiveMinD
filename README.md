@@ -1,5 +1,5 @@
 # HiveMinD
-> As a part of the Insight Data Science Fellowship I consulted for an organization on the West Coast to improve accuracy of online diagnosis of clinical cases.
+> As a part of the Insight Data Science Fellowship I consulted for a healthcare company to improve accuracy of online diagnosis of clinical cases.
 
 > I utilized machine learning (Python) & collective intelligence of multiple clinicians to increase the diagnostic accuracy by ~30 %.  My key findings are highlighted in the blog (https://medium.com/collectivemd/collectivemd-bf1a8d0a923a).
 
